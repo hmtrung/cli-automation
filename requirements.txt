@@ -1,4 +1,4 @@
-PyYAML==3.13
+PyYAML==5.4
 robotframework==3.0.4
 robotframework-difflibrary==0.1.0
 robotframework-sshlibrary==3.2.1
